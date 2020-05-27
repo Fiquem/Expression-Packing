@@ -28,3 +28,7 @@ How-To:
 - run:
 	python expression_packing.py
 - the results will be displayed on screen and saved to results.txt in the form of a list of lists of blendshape indices
+
+-----------------------------
+
+Currently there is no data included in this repository for testing.
